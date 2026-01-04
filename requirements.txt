@@ -2,3 +2,4 @@ streamlit
 requests
 geopy
 pandas
+matplotlib
